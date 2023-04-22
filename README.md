@@ -1,1 +1,1 @@
-<center><h1> Welcome to Olibx / myBot Roblox</h1></center>
+<h1 align="center"> Welcome to Olibx / myBot Roblox</h1>
